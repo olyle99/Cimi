@@ -170,12 +170,20 @@ http://130.0.24.6:2831/udp/239.101.41.10:2345
 
 #EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/ZTL0Hcl.png",[$]BANG BANG
 http://79.106.90.121:8080/BangBang/mono.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/ZTL0Hcl.png",[$]BANG
+http://79.106.90.114/out/u/bangbang.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/2UQPL93.png",[$]CUFO TV
 http://79.106.90.121:8080/Cufo/mono.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/2UQPL93.png",[$]CUFO
+http://79.106.90.114/out/u/cufotv.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/PlizEtU.png",[$]JUNIOR TV
-http://79.106.90.121:8080/JuniorTv/mono.m3u8
+http://79.106.90.114/out/u/junior.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/UJqZAwK.png",[$]BABY TV 
-http://79.106.90.121:8080/BabyTv/mono.m3u8
+http://79.106.90.114/out/u/babytv.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]FEMIJE" tvg-logo="",[$]SOLE TV 
+http://135.125.6.54/sole/index.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]FEMIJE" tvg-logo="",[$]DUCK TV 
+http://84.22.33.254/unicast.ducktv/mpegts?token=tv
 #EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/LQb39yF.png",[$]TAO TAO
 http://130.0.24.6:2831/udp/228.50.50.74:30000
 #EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/6BCMgdN.png",[$]TRING TRING 
