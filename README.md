@@ -180,9 +180,9 @@ http://79.106.90.114/out/u/cufotv.m3u8
 http://79.106.90.114/out/u/junior.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/UJqZAwK.png",[$]BABY TV 
 http://79.106.90.114/out/u/babytv.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]FEMIJE" tvg-logo="",[$]SOLE TV 
+#EXTINF:0 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/J0iqnzG.png",[$]SOLE TV 
 http://135.125.6.54/sole/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]FEMIJE" tvg-logo="",[$]DUCK TV 
+#EXTINF:0 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/lRYsofE.png",[$]DUCK TV 
 http://84.22.33.254/unicast.ducktv/mpegts?token=tv
 #EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/LQb39yF.png",[$]TAO TAO
 http://130.0.24.6:2831/udp/228.50.50.74:30000
@@ -197,6 +197,10 @@ http://130.0.24.6:2831/udp/239.101.43.54:2345
 #EXTINF:-1 group-title="[🇦🇱📺]FEMIJE" tvg-logo="https://i.imgur.com/wL1r9c6.png",[$]BOOMERANG 
 http://130.0.24.6:2831/udp/239.101.43.57:2345
 
+#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/6Rh1E4M.png",[$]BIG BROTHER VIP ALBANIA 1HD
+http://line.team-tv.link:80/AinXmjPtso/28xVIYSPYj/274267
+#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/ti6b6gd.png",[$]BIG BROTHER VIP ALBANIA 2HD
+http://line.team-tv.link:80/AinXmjPtso/28xVIYSPYj/274268
 #EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/6bn1Xhl.png",[$]BIG BROTHER VIP KOSOVA 1HD
 http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/289613
 #EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/kctC9r1.png",[$]BIG BROTHER VIP KOSOVA 2HD
